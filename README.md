@@ -1,4 +1,4 @@
-# Cloudflare Internship Application: Systems
+# Ping CLI Application
 
 ## What is it?
 
